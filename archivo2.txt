@@ -1,3 +1,5 @@
 iniciando archivo2
 segundo archivo
 linea3
+linea interimedio
+linea10
